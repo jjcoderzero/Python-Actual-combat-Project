@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jjcoder-django-vue-admin" uuid="3238e1d6-89ed-48ab-9faf-19e61f379ae1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.132.123.76:3306/django-vue-admin</jdbc-url>
+    </data-source>
+  </component>
+</project>

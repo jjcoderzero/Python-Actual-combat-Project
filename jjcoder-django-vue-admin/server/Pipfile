@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "http://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+pymysql = "*"
+mysqlclient = "*"
+djangorestframework = "*"
+pygithub = "*"
+ldap3 = "*"
+python-jenkins = "*"
+
+[requires]
+python_version = "3.8"
